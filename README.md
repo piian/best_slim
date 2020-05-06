@@ -1,5 +1,10 @@
+## 单文件，引入`simple.php`即可使用
 
-`route.php`
+## 多文件
+入口文件`route.php`
+路由文件 `route.php`
+
+路由例子：
 ```
 $app->get('/orders', 'App\Controllers\OrderController:index');
 

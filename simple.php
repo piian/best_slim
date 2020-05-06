@@ -1,16 +1,5 @@
 <?php
-
-// composer.json内容
-// {
-//     "require": {
-//         "slim/slim": "3.*",
-//         "illuminate/database": "~5.1"
-//     }
-// }
-
-
 require 'vendor/autoload.php';
-
 
 $settings = [
     'settings' => [
