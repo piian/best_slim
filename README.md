@@ -1,8 +1,8 @@
 ## 单文件，引入`simple.php`即可使用
 
 ## 多文件
-入口文件`route.php`
-路由文件 `route.php`
+- 入口文件`index.php`
+- 路由文件 `route.php`
 
 路由例子：
 ```
